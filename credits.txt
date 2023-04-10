@@ -35,5 +35,3 @@ Hearts copied from Kings and Pigs (CC0) - https://pixelfrog-assets.itch.io/kings
 Terrain tiles copied from Sunny Land - https://ansimuz.itch.io/sunny-land-pixel-game-art
 
 Font used is Press Start 2P - https://fonts.google.com/specimen/Press+Start+2P
-
-Sounds:

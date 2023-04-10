@@ -3,9 +3,14 @@ Bario Platformer is a simple 2D platform game created using Pygame. The game fea
 
 ## Team
 Muyaz - Main code, Team discussions
+
 Rehan - Main code, Organisation
+
 Matt - Main code
+
 Yousef - Main code
+
 Minjun - Graphics
+
 Dennis - Sounds
 

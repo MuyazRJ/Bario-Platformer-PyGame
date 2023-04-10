@@ -1,0 +1,39 @@
+Roles:
+
+Muyaz - Main code, Team discussions
+Rehan - Main code, Organisation
+Matt - Main code
+Yousef - Main code
+Minjun - Graphics
+Dennis - Sounds
+
+
+Code:
+
+Code modified from the below tutorial (CC0) (exact functions listed in each file)
+
+YouTube: https://www.youtube.com/watch?v=wJMDh9QGRgs
+
+Github (keep in mind we only took code from the 2nd folder, named “2 - Level“):
+
+https://github.com/clear-code-projects/2D-Mario-style-platformer
+
+
+
+Images:
+
+Character, Trees modified from Treasure Hunters (CC0) - https://pixelfrog-assets.itch.io/treasure-hunters
+
+Dust particles, Clouds, Water copied from Treasure Hunters (CC0) - https://pixelfrog-assets.itch.io/treasure-hunters
+
+Coins modified from Rocky Roads (CC0) - https://essssam.itch.io/rocky-roads
+
+Enemy explosion copied from Rocky Roads (CC0) - https://essssam.itch.io/rocky-roads
+
+Hearts copied from Kings and Pigs (CC0) - https://pixelfrog-assets.itch.io/kings-and-pigs
+
+Terrain tiles copied from Sunny Land - https://ansimuz.itch.io/sunny-land-pixel-game-art
+
+Font used is Press Start 2P - https://fonts.google.com/specimen/Press+Start+2P
+
+Sounds:
